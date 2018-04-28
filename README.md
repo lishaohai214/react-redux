@@ -173,12 +173,14 @@
 ### react 简单回顾
 
 React：
+
     1. React.createClass()：
         属性：this.props
         属性：this.state
         方法：render()
         方法：生命周期
         别的乱七八糟的方法和属性
+
     2. ReactDOM.render()：
         ReactDOM.render(
             <ThisPage/>,
